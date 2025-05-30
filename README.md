@@ -5,7 +5,7 @@
 # 👋 Hey, I'm Ehan Hassan
 
 🎓 4th Year Computer Science Honours Student – Cybersecurity Stream  
-💻 Full-Stack & Backend Developer | DevOps-Inclined | Go + Docker + AWS  
+💻 Full-Stack & Software Developer | DevOps-Inclined | Go + Docker + AWS  
 📍 Ottawa, Ontario  
 📫 ehan20204@gmail.com · [LinkedIn](https://linkedin.com/in/ehanhassan) · [Portfolio](http://ehanhassan.com)
 
