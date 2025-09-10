@@ -6,12 +6,12 @@
 
 🎓 Computer Science Student @ Carleton University  
 💻 Former Full Stack Developer Intern @ Government of Ontario, Ministry of Finance  
-📫 **ehan20204@gmail.com**
 
 ---
-
 ## 🌐 Connect with Me
-[LinkedIn](https://linkedin.com/in/ehanhassan) · [Portfolio](http://ehanhassan.com) · [GitHub](https://github.com/ehan5000)
+[![Email](https://img.shields.io/badge/Email-e34f26?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehan20204@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ehanhassan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](http://ehanhassan.com)
 
 ---
 
